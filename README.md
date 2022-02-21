@@ -1,1 +1,2 @@
-# beb-02-second-team-agora
+## 실행 명령어 ##
+$ npm start
