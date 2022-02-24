@@ -1,14 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { Route, Routes } from 'react-router-dom';
 
-
 import Home from './pages/Home';
 import Create from './pages/Create';
 import MyPage from './pages/MyPage';
 
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-
 
 import './App.css';
 
